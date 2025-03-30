@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Sarthak! 👋
+🎓 B.Tech in Computer Science & Engineering
+💻 Full-Stack Developer | Cloud Enthusiast
 
-<!--
-**Sarthak-Developer-Coder/Sarthak-Developer-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Area	Skills
+Frontend	React, Next.js, JavaScript/TypeScript, HTML/CSS, Tailwind
+Backend	Node.js, Express, Python (Django/Flask), REST APIs
+Database	MongoDB, PostgreSQL, Firebase
+Cloud & DevOps	AWS (EC2, S3, Lambda), Docker, CI/CD
+Tools	Git, Postman, VS Code, Figma (optional)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
