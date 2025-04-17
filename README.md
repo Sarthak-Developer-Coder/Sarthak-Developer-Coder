@@ -11,6 +11,10 @@ Motivated 2nd-year B.Tech Computer Science (AI) student at Lucknow University wi
 
 Active member of **AWS Cloud Club** and **Google Cloud Boost Program**, passionate about building scalable applications and contributing to open-source projects.
 
+![image](https://github.com/user-attachments/assets/890e4bd9-a2cc-4e70-90fd-4e13491f2011)
+![image](https://github.com/user-attachments/assets/7ed4a6c3-f304-460b-86e5-fe45dfa9a929)
+![image](https://github.com/user-attachments/assets/49ec6f73-0962-4326-a43c-0972d066b369)
+
 ## 🛠 Technical Skills  
 
 | Category        | Skills                                                                 |
@@ -22,6 +26,7 @@ Active member of **AWS Cloud Club** and **Google Cloud Boost Program**, passiona
 | **AI/ML**       | TensorFlow, OpenCV, NLP, Computer Vision                            |
 | **Cloud**       | AWS (EC2, S3, Lambda), Google Cloud Platform                        |
 | **Dev Tools**   | Git, Docker, CI/CD pipelines                                        |
+![image](https://github.com/user-attachments/assets/2220aff8-69b6-4745-b36e-a5919ae713f4)
 
 ## 💼 Experience
 
