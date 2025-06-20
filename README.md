@@ -108,26 +108,7 @@ AI-Powered UX Optimization Platform Combining Eye Tracking, Emotion AI, and Beha
 
 
 
-### 🎬 [MovieFlix](project-link)  
-*Netflix-style streaming platform*  
-- **Tech**: React, Node.js, Firebase, TMDb API  
-- Features: Real-time search, Firebase auth, responsive UI  
-
-### 🎵 [MusicSpot](project-link)  
-*Spotify-like music streaming app*  
-- **Tech**: Next.js, Node.js, MongoDB, Spotify API  
-- Features: Playlist management, real-time playback  
-
-### 🔗 [Linkify](project-link)  
-*Professional networking platform*  
-- **Tech**: Next.js, MongoDB, WebSockets  
-- Features: Job postings, real-time messaging
-
-## 🌟 Open Source Contributions  
-- **Google Summer of Code (GSoC) Contributor**:  
-  - Optimized backend systems and APIs  
-  - Merged PRs for performance improvements  
-- Regular contributor to AI/accessibility projects  
+ 
 
 ## 📜 Additional  
 - **Languages**: English (Fluent)  
