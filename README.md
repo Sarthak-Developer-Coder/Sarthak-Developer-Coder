@@ -1,6 +1,5 @@
 # Sarthak Nag
-📞 Contact: +91 8840715940 | ✉ Email: sarthakthesde@gmail.com  
-🔗 [LinkedIn]https://www.linkedin.com/in/sarthak-nag-b91861291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFl95Xr74Qe6d1rtoQBVBOQ%3D%3D | 💻 https://github.com/Sarthak-Developer-Coder
+💻 https://github.com/Sarthak-Developer-Coder
 
 ## 🚀 Summary
 Motivated 2nd-year B.Tech Computer Science (AI) student at Lucknow University with expertise in:
