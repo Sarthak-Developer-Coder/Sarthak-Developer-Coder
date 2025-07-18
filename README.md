@@ -1,8 +1,8 @@
-# Sarthak Nag
+# Sarthak 
 💻 https://github.com/Sarthak-Developer-Coder
 
 ## 🚀 Summary
-Motivated 2nd-year B.Tech Computer Science (AI) student at Lucknow University with expertise in:
+B.Tech Computer Science expertise in:
 - **Full-Stack Development**: React, Node.js, Spring Boot
 - **Cloud Computing**: AWS, Google Cloud
 - **AI/ML**: TensorFlow, OpenCV, NLP
