@@ -275,3 +275,4 @@
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-00C853?style=for-the-badge&logo=server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=for-the-badge&logo=rocket&logoColor=white"/>
 </p>
+<img width="964" height="238" alt="image" src="https://github.com/user-attachments/assets/cf56d4b4-fe76-4f29-a237-857b4dcc8f61" />
