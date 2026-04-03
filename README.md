@@ -10,8 +10,16 @@
   <img src="https://img.shields.io/badge/Open%20to-Backend%20Internships-orange?style=flat-square"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Sleep%20Repeat-00FF00?style=for-the-badge&logo=matrix&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backend-Dominant-00FF00?style=for-the-badge&logo=server&logoColor=black"/>
+  <img src="https://img.shields.io/badge/System-Design%20Focused-00FF00?style=for-the-badge&logo=diagram&logoColor=black"/>
+</p>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/890e4bd9-a2cc-4e70-90fd-4e13491f2011" width="700"/>
+</p>
 ## ⚡ About Me  
 
 💻 Backend-focused Software Engineer passionate about building **scalable, production-grade systems**
@@ -274,5 +282,82 @@
   <img src="https://img.shields.io/badge/Sarthak%20Nag-Backend%20Engineer-00C853?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-00C853?style=for-the-badge&logo=server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sarthak%20Nag-Backend%20Engineer-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-00C853?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Dominant-00FF00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System-Design%20Focused-00FF00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Design-Expert-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-Advanced-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Optimization-Pro-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-Strong-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Handled-1M%2B%20Requests-00E676?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-Optimized%2035%25-00E676?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-00E676?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Latency-Low%20%3C300ms-00E676?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contribution-Graph%20Full%20Green-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consistency-High-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commit%20Streak-Strong-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API-REST%20%7C%20GraphQL-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Elite%20Developer-TRUE-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code%20Quality-High-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Production%20Ready-Yes-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Hiring-00C853?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looking%20for-Backend%20Internships-00C853?style=for-the-badge"/>
+</p>
+<p align="center">
+
+<!-- 🔥 Backend Deep Skills -->
+<img src="https://img.shields.io/badge/Authentication-JWT%20%7C%20OAuth-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authorization-RBAC-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Security-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Input%20Validation-Strong-00C853?style=for-the-badge"/>
+
+<!-- ⚡ Performance & Scaling -->
+<img src="https://img.shields.io/badge/Caching-Redis-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rate%20Limiting-Enabled-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Load%20Handling-High-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalability-Horizontal-00C853?style=for-the-badge"/>
+
+<!-- 🔄 Async & Architecture -->
+<img src="https://img.shields.io/badge/Async%20Processing-Workers-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event%20Driven-Architecture-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Message%20Queues-Kafka%20%7C%20RabbitMQ-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cron%20Jobs-Automated-00C853?style=for-the-badge"/>
+
+<!-- 🗄 Database Advanced -->
+<img src="https://img.shields.io/badge/Indexing-Optimized-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Query%20Optimization-Advanced-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transactions-ACID-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Schema%20Design-Scalable-00C853?style=for-the-badge"/>
+
+<!-- ☁️ DevOps Advanced -->
+<img src="https://img.shields.io/badge/Containerization-Docker-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Orchestration-Kubernetes-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI/CD-Automated-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monitoring-Logs%20%7C%20Metrics-00C853?style=for-the-badge"/>
+
+<!-- 🔐 Security -->
+<img src="https://img.shields.io/badge/Encryption-AES%20%7C%20HTTPS-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-Aware-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Secure%20Coding-Practices-00C853?style=for-the-badge"/>
+
+<!-- 🤖 AI + Backend Combo -->
+<img src="https://img.shields.io/badge/AI%20Integration-APIs-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-Integration-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines-Built-00C853?style=for-the-badge"/>
+
+</p>
+<p align="center">
+  
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/7ed4a6c3-f304-460b-86e5-fe45dfa9a929" width="700"/>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/49ec6f73-0962-4326-a43c-0972d066b369" width="700"/>
 </p>
 <img width="964" height="238" alt="image" src="https://github.com/user-attachments/assets/cf56d4b4-fe76-4f29-a237-857b4dcc8f61" />
