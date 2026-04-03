@@ -85,6 +85,7 @@
 
 ### 🔥 Finance Dashboard Backend  
 🔗 https://github.com/Sarthak-Developer-Coder/finance-dashboard-backend  
+🌐 **Live:** https://finance-dashboard-backend-8onq.onrender.com
 
 - Designed **role-based access control (RBAC) APIs**
 - Built secure backend for financial data processing
@@ -94,6 +95,7 @@
 
 ### ⚡ ReachInbox — Email Automation System  
 🔗 https://github.com/Sarthak-Developer-Coder/reachinbox-email-scheduler  
+🌐 **Live:** https://reachinbox-email-scheduler-frontend.vercel.app/ 
 
 - Built async job scheduler using cron workers  
 - Designed backend for **high concurrency email processing**  
@@ -103,6 +105,7 @@
 
 ### 📡 Allify — Real-Time Messaging System  
 🔗 https://github.com/Sarthak-Developer-Coder/Allify  
+🌐 **Live:** https://allify.vercel.app/  
 
 - WebSocket-based backend (<300ms latency)  
 - Handles concurrent users & real-time communication  
@@ -112,6 +115,7 @@
 
 ### 📊 ATS Resume Analyzer  
 🔗 https://github.com/Sarthak-Developer-Coder/ATS_RESUME_BUILDER  
+🌐 **Live:** https://ats-resume-builder-nine.vercel.app/  
 
 - Backend APIs serving **500+ users**  
 - Integrated AI pipelines with optimized performance  
