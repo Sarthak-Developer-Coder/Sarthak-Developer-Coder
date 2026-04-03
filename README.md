@@ -1,114 +1,188 @@
-# Sarthak 
-💻 https://github.com/Sarthak-Developer-Coder
+<h1 align="center">🚀 Sarthak Nag</h1>
+<h3 align="center">Backend Engineer | Scalable Systems | Microservices | API Specialist</h3>
 
-## 🚀 Summary
-B.Tech Computer Science expertise in:
-- **Full-Stack Development**: React, Node.js, Spring Boot
-- **Cloud Computing**: AWS, Google Cloud
-- **AI/ML**: TensorFlow, OpenCV, NLP
-- **Core Programming**: Java, C, C++ (90% proficiency)  
+<p align="center">
+  <a href="https://github.com/Sarthak-Developer-Coder">
+    <img src="https://komarev.com/ghpvc/?username=Sarthak-Developer-Coder&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <img src="https://img.shields.io/badge/Backend-Engineer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Backend%20Internships-orange?style=flat-square"/>
+</p>
 
-Active member of **AWS Cloud Club** and **Google Cloud Boost Program**, passionate about building scalable applications and contributing to open-source projects.
+---
 
-![image](https://github.com/user-attachments/assets/890e4bd9-a2cc-4e70-90fd-4e13491f2011)
-![image](https://github.com/user-attachments/assets/7ed4a6c3-f304-460b-86e5-fe45dfa9a929)
-![image](https://github.com/user-attachments/assets/49ec6f73-0962-4326-a43c-0972d066b369)
+## ⚡ About Me  
 
-## 🛠 Technical Skills  
+💻 Backend-focused Software Engineer passionate about building **scalable, production-grade systems**
 
-| Category        | Skills                                                                 |
-|-----------------|-----------------------------------------------------------------------|
-| **Programming** | Java, C, C++, Python, JavaScript                                     |
-| **Frontend**    | React, Next.js, Vue.js, HTML/CSS, Tailwind                           |
-| **Backend**     | Node.js, Spring Boot, Django, Flask, Express.js                      |
-| **Databases**   | MySQL, PostgreSQL, MongoDB, Firebase                                 |
-| **AI/ML**       | TensorFlow, OpenCV, NLP, Computer Vision                            |
-| **Cloud**       | AWS (EC2, S3, Lambda), Google Cloud Platform                        |
-| **Dev Tools**   | Git, Docker, CI/CD pipelines                                        |
-![image](https://github.com/user-attachments/assets/2220aff8-69b6-4745-b36e-a5919ae713f4)
+- ⚙️ Built systems handling **1M+ monthly requests**
+- 📈 Improved API & DB performance by **35%**
+- 🔐 Designed secure **JWT authentication systems**
+- ☁️ Experience with **AWS, Docker, CI/CD pipelines**
+- 🤖 Working on **LLM systems improving accuracy by 25%+**
+- 🌍 Open Source Contributor & Mentor (**50+ PRs merged**)
 
-## 💼 Experience
+🎯 I focus on **backend engineering, system design, and high-performance architectures**
 
-### **AWS Cloud Club Member** | Lucknow University *(Sep 2023 - Present)*  
-- Developed & deployed cloud applications using AWS services
-- Organized workshops on cloud architecture and DevOps
-- Earned AWS Infrastructure Camper Badge for cloud expertise
+---
 
-## 🎓 Education  
-**B.Tech in Computer Science (AI)**  
-University of Lucknow *(2023 - 2027)*  
-- Specialization: Artificial Intelligence  
-- Thesis: *"Technological Advancements in the Software Industry"*  
+## 🧠 Backend Expertise  
 
-**Certifications**:  
-- Google Cloud Boost Program  
-- Prism Fest Winner (Innovative Tech Solutions)  
+✔️ Scalable REST APIs  
+✔️ Microservices Architecture  
+✔️ Async Systems (Cron Jobs, Workers)  
+✔️ Database Optimization & Indexing  
+✔️ Real-Time Systems (WebSockets)  
+✔️ Authentication & Security (JWT, RBAC)  
 
-## 💻 Projects  
-# 👁️ CogniUX Analyzer  
-*AI-Powered Behavioral Analytics Platform*  
-
-
-
-## 🌟 Overview  
-An integrated system combining **eye-tracking**, **sentiment analysis**, and **cognitive load measurement** to revolutionize user experience research.  
-
-**Key Features**:  
-- 🔍 Real-time gaze tracking via webcam  
-- 😊 Emotion detection from text & facial analysis  
-- 📝 Pre/post-task cognitive load assessment  
-- 📊 Interactive analytics dashboard  
-
-[![Live Demo](https://img.shields.io/badge/Demo-Available-green)](your-demo-url) 
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+---
 
 ## 🛠 Tech Stack  
 
-### 🔧 Core Technologies  
-| Component          | Implementation Details                |
-|--------------------|--------------------------------------|
-| **Eye Tracking**   | WebGazer.js + MediaPipe Face Mesh    |
-| **Sentiment AI**   | TensorFlow.js + NLTK                 |
-| **Frontend**       | React.js + Next.js + D3.js           |
-| **Backend**        | Node.js + Flask Microservices        |
-| **Database**       | MongoDB (Behavioral Metrics)         |
-| **Cloud**          | AWS EC2 + S3 (Session Storage)       |
+### 🚀 Backend  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
 
-# 👁️ EmoGaze Analytics Suite  
-**Multimodal User Behavior Analysis Platform**  
-*Combining Eye Tracking, Sentiment Analysis, and Cognitive Assessment*
+### 🗄 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=for-the-badge)
 
+---
 
-[![Live Demo](https://img.shields.io/badge/Demo-Available-8A2BE2)](demo-url) 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.123456.svg)](your-doi-link)
+## 💼 Experience  
 
-## 📌 Table of Contents
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Usage Guide](#-usage-guide)
-- [Data Flow](#-data-flow-architecture)
-- [Research Applications](#-research-applications)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
+### 🧠 LLM Post-Training Intern — Ethara AI  
+- Improved model accuracy by **25%**  
+- Reduced hallucinations by **30%**  
+- Built automated evaluation pipelines → **40% faster testing**  
 
+---
 
+### ⚙️ SDE Intern — Bluestock Fintech  
+- Built backend systems handling **1M+ monthly requests**  
+- Improved DB performance by **35%**  
+- Designed secure JWT authentication  
+- Maintained **99.9% uptime**  
 
-### 👁️ **Precision Eye Tracking**
-- Webcam-based gaze estimation (60Hz sampling)
-- Fixation heatmaps & attention waterfalls
-- Blink rate detection (cognitive load indicator)
+---
 
-👁️ SentinelUX: Cognitive-Aware Interface Evaluator
-AI-Powered UX Optimization Platform Combining Eye Tracking, Emotion AI, and Behavioral Analytics
+### 🌍 Open Source Mentor — GSSoC  
+- Mentored **100+ developers**  
+- Reviewed **200+ PRs**  
+- Improved code quality by **35%**  
 
+---
 
+## 🚀 Featured Backend Projects  
 
- 
+### 🔥 Finance Dashboard Backend  
+🔗 https://github.com/Sarthak-Developer-Coder/finance-dashboard-backend  
 
-## 📜 Additional  
-- **Languages**: English (Fluent)  
-- **Interests**: HCI Research, Behavioral Analytics, UX Optimization  
+- Designed **role-based access control (RBAC) APIs**
+- Built secure backend for financial data processing
+- Implemented scalable architecture with clean API design  
+
+---
+
+### ⚡ ReachInbox — Email Automation System  
+🔗 https://github.com/Sarthak-Developer-Coder/reachinbox-email-scheduler  
+
+- Built async job scheduler using cron workers  
+- Designed backend for **high concurrency email processing**  
+- Ensured **fault-tolerant execution system**  
+
+---
+
+### 📡 Allify — Real-Time Messaging System  
+🔗 https://github.com/Sarthak-Developer-Coder/Allify  
+
+- WebSocket-based backend (<300ms latency)  
+- Handles concurrent users & real-time communication  
+- Built scalable messaging APIs  
+
+---
+
+### 📊 ATS Resume Analyzer  
+🔗 https://github.com/Sarthak-Developer-Coder/ATS_RESUME_BUILDER  
+
+- Backend APIs serving **500+ users**  
+- Integrated AI pipelines with optimized performance  
+
+---
+
+### 🌐 PrimeTrade.ai  
+🔗 https://github.com/Sarthak-Developer-Coder/Primetrade.ai  
+
+- Developed backend systems for trading workflows  
+- Designed scalable API architecture  
+
+---
+
+## 📦 Other Projects  
+
+- 🔗 Hindi ASR Research → https://github.com/Sarthak-Developer-Coder/hindi-asr-research-josh-talkss  
+- 🔗 CipherSchools Platform → https://github.com/Sarthak-Developer-Coder/CipherSchools  
+- 🔗 IRCTC Clone → https://github.com/Sarthak-Developer-Coder/IRCTC  
+- 🔗 TodoMaster App → https://github.com/Sarthak-Developer-Coder/TodoMasterApp  
+- 🔗 Prysm Labs Assignment → https://github.com/Sarthak-Developer-Coder/Prysm-Labs-Backend-Developer-Intern-Assignment  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Developer-Coder&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Developer-Coder&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 Amazon ML Summer School (Top 1%)  
+- 🧑‍💻 50+ Open Source Contributions  
+- ☁️ AWS Cloud Club & Google Cloud Boost  
+- 🏆 Prism Fest Winner  
+
+---
+
+## 🎯 Current Focus  
+
+- Distributed Systems  
+- Backend Scaling  
+- System Design  
+- High-performance APIs  
+
+---
+
+## 📫 Connect  
+
+<p align="center">
+  <a href="https://github.com/Sarthak-Developer-Coder">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/sarthak-nag-b91861291">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:sarthakthesde@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## ⚡ Final Note  
+
+🔥 I don’t just build projects — I build **scalable backend systems that work in production**
+
+---
+
+⭐ *Actively looking for Backend Intern / SDE Roles*
