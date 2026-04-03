@@ -270,3 +270,8 @@
 ---
 
 ⭐ *Actively looking for Backend Intern / SDE Roles*
+<p align="center">
+  <img src="https://img.shields.io/badge/Sarthak%20Nag-Backend%20Engineer-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-00C853?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
